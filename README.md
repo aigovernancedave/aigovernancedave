@@ -1,7 +1,8 @@
-👋 Hi, I'm David Frempong
-Welcome to my GitHub! I’m an AI Governance and Cybersecurity Risk Specialist with experience in building and operationalizing compliance programs, privacy risk assessments, and cybersecurity governance across higher education and data-sensitive environments. I'm passionate about applying AI and data-driven tools to enhance security, regulatory compliance, and stakeholder engagement.
+#👋 Hi, I'm **David Frempong**
 
-🌱 What I Am Currently Learning
+Welcome to my GitHub! I’m an **AI Governance and Cybersecurity Risk Specialist** with experience in building and operationalizing compliance programs, privacy risk assessments, and cybersecurity governance across higher education and data-sensitive environments. I'm passionate about applying AI and data-driven tools to enhance security, regulatory compliance, and stakeholder engagement.
+
+#🌱 What I Am Currently Learning
 Explainable AI for cybersecurity detection (PhD Research)
 Privacy and data protection frameworks (CIPP/US, AIGP, CRISC certifications)
 Advanced AI governance for educational and institutional environments
