@@ -7,7 +7,7 @@ Privacy and data protection frameworks (CIPP/US, AIGP, CRISC certifications)
 Advanced AI governance for educational and institutional environments
 New developments in risk and compliance automation
 
-#🛠️ My Skills & Tools
+🛠️ My Skills & Tools
 Frameworks & Standards: NIST RMF & AI RMF, NIST 800-53, ISO 27001, SOC 2, SOX ITGC, MITRE ATT&CK, HIPAA, GDPR, FERPA
 Compliance Tools: Vanta, ServiceNow GRC (conceptual), Compliance Automation, SIEM Tools, Archer
 Cloud & Data: AWS Security Hub, IAM, CloudTrail, Power BI, Excel, Python, SQL
