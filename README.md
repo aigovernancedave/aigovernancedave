@@ -55,6 +55,8 @@ I have been a STEM educator and a Data Analyst, sharing knowledge about cybersec
 
 I also love sports, especially golf, ping-pong, volleyball, and soccer.
 
-# 📬 **How to Reach Me**
-LinkedIn: linkedin.com/in/david-frempong-48ab53337/
+# 📬 How to Reach Me
+
+**LinkedIn:** [linkedin.com/in/david-frempong-48ab53337/](https://linkedin.com/in/david-frempong-48ab53337/)
+
 
