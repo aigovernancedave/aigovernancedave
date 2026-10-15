@@ -9,7 +9,7 @@ Explainable AI for cybersecurity detection (PhD Research)
 
 Privacy and data protection frameworks (CIPP/US, AIGP, CRISC certifications)
 
-Advanced AI governance for educational and institutional environments
+Advanced AI governance, explainability, and accountability frameworks for educational and institutional environments
 
 New developments in risk and compliance automation
 
