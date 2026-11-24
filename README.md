@@ -148,6 +148,15 @@ Through these projects, I have developed and demonstrated practical competencies
 
 These projects reflect my commitment to translating academic learning and professional development into practical technical solutions, effective cybersecurity governance, and measurable organizational risk improvements.
 
+## 📂 Portfolio Updates
+
+I continuously expand my technical portfolio through academic projects, hands-on technical labs, independent research, and professional development.
+
+New projects, technical implementations, and significant improvements are documented in their respective GitHub repositories.
+
+For the latest additions, visit my [GitHub Repositories](https://github.com/aigovernancedave?tab=repositories).
+
+
 # 🎓 **Certifications and Continuous Learning**
 CompTIA Security Analytics Professional (CSAP)
 
